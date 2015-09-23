@@ -1,0 +1,40 @@
+Hello! I am a program written in Python!
+I would like to show you a few things that a Python program can do!
+
+First, I need some information.
+Tell me your first name. Press ENTER after you type it.
+Enter your first name:  Sonic
+And your last name:  Hedgehog
+
+Well hello, Sonic Hedgehog! That's a very nice name!
+Did you know that there are 5 letters in your first name and 8 letters in your last name? That makes 13 letter in all!!!
+
+Would you like to see your name printed backwards?
+Type yes or no:  n
+Please, let me show off for you!
+Type yes or no:  yes
+gohegdeH cinoS
+
+Now, tell me your birthdate.
+First, the number of the month (1-12):  6
+Next, the day:  23
+And finally, the year:  1991
+
+I bet you didn't know that you are exactly 8858 days old!
+
+Press Enter to continue, Sonic.
+... 
+
+
+As you can tell by this program, a computer programmed with Python
+is able to do many different things. It can count the letters in
+your name; it can remember the letters in your name and print them
+in reverse order; and, of course, it can do mathematical calculations
+like figuring out how many days old you are. It is
+important that you realize, however, that everything that
+happened was a result of a series of instructions (a program)
+written by a person. Soon you will be writing your own programs!
+
+Best of luck!
+
+Now, Sonic, please continue to the next lesson.
